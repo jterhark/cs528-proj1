@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jaket\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jaket\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Chicago-UIC.1686201254.00" t="ExcludeRecursive" />
+    <e p="G:\cs528\Project1\Chicago-UIC" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="module-omicron" t="Include">
+          <e p="CAVE2" t="Include">
+            <e p="Examples" t="Include">
+              <e p="CAVESimulator" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="CAVE2Display.cs" t="Include" />
+                  <e p="CustomHMDPerspective.cs" t="Include" />
+                  <e p="DisplayInfo.cs" t="Include" />
+                  <e p="HMDDisplay.cs" t="Include" />
+                  <e p="ScreenConfigCalc.cs" t="Include" />
+                  <e p="TransformInfo.cs" t="Include" />
+                  <e p="VRDisplayManager.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Generalized Perspective Projection" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="GeneralizedPerspectiveProjection.cs" t="Include" />
+                  <e p="OmicronVRDisplayManager.cs" t="Include" />
+                  <e p="StereoscopicCamera.cs" t="Include" />
+                </e>
+                <e p="Shaders" t="Include">
+                  <e p="StereoscopicShader.shader" t="Include" />
+                </e>
+              </e>
+              <e p="HoloLens" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="HoloLensCameraCalibrationUI.cs" t="Include" />
+                  <e p="HoloLensCameraExaminer.cs" t="Include" />
+                  <e p="HoloLensTestBuildManager.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Loading" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="AssetBundleManager.cs" t="Include" />
+                </e>
+              </e>
+              <e p="ProjectDescriptionUI" t="Include">
+                <e p="ChildSpriteFader.cs" t="Include" />
+                <e p="ProjectDescriptionCanvasUI.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Networking" t="Include">
+              <e p="CAVE2VRLobbyManager.cs" t="Include" />
+              <e p="CharacterLabelUI.cs" t="Include" />
+              <e p="NetworkedVRPlayerManager.cs" t="Include" />
+              <e p="VRLobbyPlayer.cs" t="Include" />
+              <e p="VRPlayerWrapper.cs" t="Include" />
+            </e>
+            <e p="RemoteControl" t="Include">
+              <e p="RemoteTerminal.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="OmicronEditorMode.cs" t="Include" />
+              </e>
+              <e p="Examples" t="Include">
+                <e p="CAVE2Interactable.cs" t="Include" />
+                <e p="CAVE2InteractableChild.cs" t="Include" />
+                <e p="CAVE2LoadSceneUI.cs" t="Include" />
+                <e p="CAVE2LoadSceneWandClick.cs" t="Include" />
+                <e p="CubeDrop.cs" t="Include" />
+                <e p="GrabbableObject.cs" t="Include" />
+                <e p="HoverOverIndicator.cs" t="Include" />
+                <e p="MocapAdvUpdater.cs" t="Include" />
+                <e p="PrecisionTransformModifier.cs" t="Include" />
+                <e p="SimpleWalkController.cs" t="Include" />
+                <e p="WandPointer.cs" t="Include" />
+              </e>
+              <e p="Managers" t="Include">
+                <e p="CAVE2AdvancedTrackingSimulator.cs" t="Include" />
+                <e p="CAVE2ClusterSpawnManager.cs" t="Include" />
+                <e p="CAVE2InputManager.cs" t="Include" />
+                <e p="CAVE2Manager.cs" t="Include" />
+                <e p="CAVE2RPCManager.cs" t="Include" />
+              </e>
+              <e p="Navigation" t="Include">
+                <e p="CAVE2WandNavigator.cs" t="Include" />
+              </e>
+              <e p="UI" t="Include">
+                <e p="AdaptiveSyncGUI.cs" t="Include" />
+                <e p="FPSCanvasUIText.cs" t="Include" />
+                <e p="FramerateUI.cs" t="Include" />
+                <e p="MachineInfoUI.cs" t="Include" />
+                <e p="NavModeUI.cs" t="Include" />
+                <e p="NavSpeedUI.cs" t="Include" />
+                <e p="Omegalib-Style Menu" t="Include">
+                  <e p="OMenu.cs" t="Include" />
+                  <e p="OMenuManager.cs" t="Include" />
+                  <e p="UndockMenu.cs" t="Include" />
+                </e>
+                <e p="OmicronSpeechStatusGUI.cs" t="Include" />
+                <e p="OmicronStatusGUI.cs" t="Include" />
+                <e p="RotateModeUI.cs" t="Include" />
+                <e p="RPCUpdateRateUI.cs" t="Include" />
+                <e p="TransformUI.cs" t="Include" />
+                <e p="WandUI.cs" t="Include" />
+              </e>
+              <e p="Updaters" t="Include">
+                <e p="CAVE2MocapUpdater.cs" t="Include" />
+                <e p="CAVE2TransformSync.cs" t="Include" />
+                <e p="CAVE2WandMocapUpdater.cs" t="Include" />
+                <e p="CAVE2WandVisualUpdater.cs" t="Include" />
+                <e p="GenericVRControllerUpdater.cs" t="Include" />
+                <e p="getReal3DHeadUpdater.cs" t="Include" />
+                <e p="getReal3DMocapUpdater.cs" t="Include" />
+              </e>
+              <e p="Util" t="Include">
+                <e p="CAVE2CameraController.cs" t="Include" />
+                <e p="CAVE2HeadMarker.cs" t="Include" />
+                <e p="CAVE2PlayerCollider.cs" t="Include" />
+                <e p="CAVE2PlayerControllerID.cs" t="Include" />
+                <e p="CAVE2PlayerIdentity.cs" t="Include" />
+                <e p="CAVE2ScreenMaskRenderer.cs" t="Include" />
+                <e p="CAVE2WandInteractor.cs" t="Include" />
+                <e p="ChildTransformScript.cs" t="Include" />
+                <e p="ConsoleToCanvasText.cs" t="Include" />
+                <e p="getReal3D" t="Include">
+                  <e p="CameraEyeLayerFilter.cs" t="Include" />
+                  <e p="CameraLister.cs" t="Include" />
+                  <e p="getReal3DCAVEWandTester.cs" t="Include" />
+                  <e p="getReal3DSensorLister.cs" t="Include" />
+                  <e p="getRealCAVE2Camera.cs" t="Include" />
+                </e>
+                <e p="LookAtCamera.cs" t="Include" />
+                <e p="Tests" t="Include">
+                  <e p="CAVE2RPCTester.cs" t="Include" />
+                  <e p="CAVE2SecondPlayerCamera.cs" t="Include" />
+                  <e p="CAVE2VariableDiagnosticUI.cs" t="Include" />
+                  <e p="RandomSeedDisplay.cs" t="Include" />
+                  <e p="XRTrackingOverride.cs" t="Include" />
+                </e>
+                <e p="WandTransformInfoUI.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="CAVE2-UI Default Font.shader" t="Include" />
+              <e p="CAVE2-UI Default.shader" t="Include" />
+              <e p="CAVE2ScreenMaskShader.shader" t="Include" />
+            </e>
+            <e p="Skybox" t="Include">
+              <e p="CAVE2SkyboxController.cs" t="Include" />
+            </e>
+            <e p="Tutorial" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="CAVE2LoadScene.cs" t="Include" />
+                <e p="DestroyOnTimer.cs" t="Include" />
+                <e p="PhysicsButton.cs" t="Include" />
+                <e p="ResetManager.cs" t="Include" />
+                <e p="SimpleSpawner.cs" t="Include" />
+                <e p="TutorialMovementScript.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Util" t="Include">
+              <e p="Editor" t="Include">
+                <e p="CreateAssetBundles.cs" t="Include" />
+              </e>
+              <e p="Kinect" t="Include">
+                <e p="KinectHandGrabber.cs" t="Include" />
+                <e p="KinectVoiceMarkerDrop.cs" t="Include" />
+                <e p="OmicronKinectEventClient.cs" t="Include" />
+                <e p="OmicronKinectImageClient.cs" t="Include" />
+                <e p="OmicronKinectManager.cs" t="Include" />
+                <e p="OmicronSpeechManager.cs" t="Include" />
+              </e>
+              <e p="OmicronConnectorClient.cs" t="Include" />
+              <e p="OmicronController.cs" t="Include" />
+              <e p="OmicronEventClient.cs" t="Include" />
+              <e p="OmicronManager.cs" t="Include" />
+              <e p="OmicronMocapSensor.cs" t="Include" />
+              <e p="OmicronSAGE2Client.cs" t="Include" />
+              <e p="UI" t="Include">
+                <e p="DebugGUIManager.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="3D Text (Billboard).shader" t="Include" />
+            <e p="Font (Billboard).shader" t="Include" />
+            <e p="Transparent-InvisibleShadowCaster.shader" t="Include" />
+            <e p="Transparent-Self-Illumin.shader" t="Include" />
+          </e>
+          <e p="Tests" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="OmicronControllerVisualTester.cs" t="Include" />
+            </e>
+            <e p="Mocap" t="Include">
+              <e p="Mocap3DText.cs" t="Include" />
+              <e p="OmicronMocapObject.cs" t="Include" />
+            </e>
+            <e p="Touch" t="Include">
+              <e p="SimpleCanvasTouch.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ColliderTriggerLOD.cs" t="Include" />
+          <e p="InfoPanel.cs" t="Include" />
+          <e p="LightWandController.cs" t="Include" />
+          <e p="LODByDistance.cs" t="Include" />
+          <e p="MeshLODByDistance.cs" t="Include" />
+          <e p="ObjectLODByDistance.cs" t="Include" />
+          <e p="POIJump.cs" t="Include" />
+          <e p="SlidingPanelWall.cs" t="Include" />
+          <e p="ToggleModel.cs" t="Include" />
+          <e p="WandMenu.cs" t="Include" />
+        </e>
+        <e p="UIC" t="Include">
+          <e p="EVL" t="Include">
+            <e p="External" t="Include">
+              <e p="MiniJSON.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="AngleHelper.cs" t="Include" />
+              <e p="CoordinateCalculator.cs" t="Include" />
+              <e p="EVL2068HistoricalToggle.cs" t="Include" />
+              <e p="EVLHistoricalToggle.cs" t="Include" />
+              <e p="EVLMainLabHistoricalToggle.cs" t="Include" />
+              <e p="HistoricalTeleportHelper.cs" t="Include" />
+              <e p="LightSwitchToggle.cs" t="Include" />
+              <e p="LODByHeight.cs" t="Include" />
+              <e p="LODByTrigger.cs" t="Include" />
+              <e p="LODScript.cs" t="Include" />
+              <e p="LookAtAndScaleToCamera.cs" t="Include" />
+              <e p="SceneFOVLineRenderer.cs" t="Include" />
+              <e p="Sensors" t="Include">
+                <e p="ContinuumDisplaySensor.cs" t="Include" />
+                <e p="ContinuumDoorSensor.cs" t="Include" />
+                <e p="ContinuumKinectAudioSensor.cs" t="Include" />
+                <e p="ContinuumLightSensor.cs" t="Include" />
+                <e p="ContinuumStatus.cs" t="Include" />
+                <e p="RESTAPISensor.cs" t="Include" />
+                <e p="SensorGUI.cs" t="Include" />
+              </e>
+              <e p="ThirdPersonCameraScript.cs" t="Include" />
+              <e p="WorldToCameraSpace.cs" t="Include" />
+            </e>
+          </e>
+          <e p="jterha2" t="Include">
+            <e p="Imports" t="Include">
+              <e p="Knight" t="Include">
+                <e p="Shaders" t="Include">
+                  <e p="doublesidedshader.shader" t="Include" />
+                </e>
+              </e>
+              <e p="Rocks and Boulders 2" t="Include">
+                <e p="Shaders" t="Include">
+                  <e p="Blend SM2.shader" t="Include" />
+                  <e p="Blend SM3.shader" t="Include" />
+                  <e p="RotateGameObject.cs" t="Include" />
+                  <e p="shader info.txt" t="Include" />
+                </e>
+              </e>
+              <e p="Starfield Skybox" t="Include">
+                <e p="Demo" t="Include">
+                  <e p="Script" t="Include">
+                    <e p="LookCamera.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Wispy Sky" t="Include">
+                <e p="README.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="EnvManager.cs" t="Include" />
+              <e p="SpeakerToggle.cs" t="Include" />
+              <e p="TeleportManager.cs" t="Include" />
+              <e p="TriggerAudio.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Chicago-UIC.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

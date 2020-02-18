@@ -1,0 +1,5 @@
+Assets/UIC/jterha2/Imports/RP_Free_RiggedModels/rp_alison_rigged_001/Materials/rp_alison_rigged_001_dif_gloss.tga filter=lfs diff=lfs merge=lfs -text
+Assets/UIC/jterha2/Imports/RP_Free_RiggedModels/rp_alison_rigged_001/Materials/rp_alison_rigged_001_norm.TGA filter=lfs diff=lfs merge=lfs -text
+Assets/UIC/jterha2/Imports/RP_Free_RiggedModels/rp_eric_rigged_001/Materials/rp_eric_rigged_001_dif_gloss.tga filter=lfs diff=lfs merge=lfs -text
+Assets/UIC/jterha2/Imports/RP_Free_RiggedModels/rp_eric_rigged_001/Materials/rp_eric_rigged_001_norm.TGA filter=lfs diff=lfs merge=lfs -text
+Assets/UIC/jterha2/Imports/Wispy[[:space:]]Sky/Extras/SphericalRenderPSD.psd filter=lfs diff=lfs merge=lfs -text
