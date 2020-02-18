@@ -20,6 +20,8 @@ public class TeleportManager : MonoBehaviour
         
     }
 
+    //Since an event is emitted whenever a toggle is selected/deselected
+    //each handler needs to check if the value is true.
     public void TeleportNW(bool x)
     {
         if (x)

@@ -6,6 +6,8 @@ using UnityEngine.Events;
 
 public class EnvManager : MonoBehaviour
 {
+    //each contains a list of delagates to run
+    //this allows actions to be described in the editor w/o code
     public UnityEvent onDaytime;
     public UnityEvent onNighttime;
     
@@ -23,6 +25,9 @@ public class EnvManager : MonoBehaviour
 
     public void IsDayChecked(bool check)
     {
+        //Day is the default and when deselected, night is the 
+        //only other option. Thus day will be false when night
+        //is selected.
         Console.WriteLine($"Value: {check}");
         if (check)
         {

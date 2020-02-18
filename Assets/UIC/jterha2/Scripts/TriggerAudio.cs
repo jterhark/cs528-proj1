@@ -11,6 +11,8 @@ public class TriggerAudio : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //get the audio attached to the game object this
+        //script is attached to.
         clip = this.GetComponent<AudioSource>();
     }
 
@@ -22,6 +24,7 @@ public class TriggerAudio : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        //if the player enters the area, play some sound.
         if (other.CompareTag("Player"))
         {
             clip.Play();

@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9235e43d-08c7-45b4-ba58-1b2d3091a30c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chicago-UIC/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chicago-UIC/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chicago-UIC/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chicago-UIC/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chicago-UIC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chicago-UIC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIC/EVL" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIC/EVL" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/UIC/EVL/Models/ERF/ERF.blend" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIC/EVL/Models/ERF/ERF.blend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/UIC/EVL/Models/ERF/ERF.blend.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIC/EVL/Models/ERF/ERF.blend.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/UIC/EVL/Models/ERF/ERF.fbx" beforeDir="false" />
@@ -58,6 +62,11 @@
       <change beforePath="$PROJECT_DIR$/Assets/UIC/EVL/Scenes/ICELab Color Picker.unity" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/UIC/EVL/Scenes/ICELab Color Picker.unity.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/UIC/EVL/Scripts/ThirdPersonCameraScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIC/EVL/Scripts/ThirdPersonCameraScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/EnvManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/EnvManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/SpeakerToggle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/SpeakerToggle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/TeleportManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/TeleportManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/TriggerAudio.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/TriggerAudio.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/module-omicron" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/module-omicron" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/module-omicron/CAVE2/Materials/CAVE2-ScreenMask.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/module-omicron/CAVE2/Materials/CAVE2-ScreenMask.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/module-omicron/CAVE2/Prefabs/Debug/CAVE2 Diagnostic Display.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/module-omicron/CAVE2/Prefabs/Debug/CAVE2 Diagnostic Display.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/module-omicron/CAVE2/Prefabs/Debug/CAVE2 Diagnostic w Backwall.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/module-omicron/CAVE2/Prefabs/Debug/CAVE2 Diagnostic w Backwall.prefab" afterDir="false" />
@@ -76,7 +85,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assets/module-omicron" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/EnvManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -88,11 +97,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/TriggerInteraction.cs" />
         <option value="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/EnvManager.cs" />
         <option value="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/TeleportManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/TriggerAudio.cs" />
-        <option value="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/TriggerInteraction.cs" />
         <option value="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/SpeakerToggle.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIC/jterha2/Scripts/TriggerAudio.cs" />
       </list>
     </option>
   </component>
@@ -147,6 +156,7 @@
       <workItem from="1581836228180" duration="13000" />
       <workItem from="1581842863903" duration="33000" />
       <workItem from="1581843035461" duration="3375000" />
+      <workItem from="1581993377234" duration="253000" />
     </task>
     <servers />
   </component>
